@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/purvajain-git/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/purvajain-git/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/purvajain-git/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/purvajain-git/LeetCode/tree/master/0189-rotate-array) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/purvajain-git/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/purvajain-git/LeetCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/purvajain-git/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/purvajain-git/LeetCode/tree/master/0283-move-zeroes) |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/purvajain-git/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/purvajain-git/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/purvajain-git/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
