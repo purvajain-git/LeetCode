@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/purvajain-git/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/purvajain-git/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/purvajain-git/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/purvajain-git/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/purvajain-git/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/purvajain-git/LeetCode/tree/master/0283-move-zeroes) |
 | [0992-subarrays-with-k-different-integers](https://github.com/purvajain-git/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/purvajain-git/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/purvajain-git/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/purvajain-git/LeetCode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/purvajain-git/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/purvajain-git/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/purvajain-git/LeetCode/tree/master/0283-move-zeroes) |
 ## Math
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/purvajain-git/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/purvajain-git/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/purvajain-git/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/purvajain-git/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
