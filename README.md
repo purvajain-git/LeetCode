@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/purvajain-git/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/purvajain-git/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/purvajain-git/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/purvajain-git/LeetCode/tree/master/0016-3sum-closest) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/purvajain-git/LeetCode/tree/master/0001-two-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/purvajain-git/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/purvajain-git/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
