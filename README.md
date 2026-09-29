@@ -88,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/purvajain-git/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/purvajain-git/LeetCode/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/purvajain-git/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/purvajain-git/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/purvajain-git/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/purvajain-git/LeetCode/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/purvajain-git/LeetCode/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/purvajain-git/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/purvajain-git/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
