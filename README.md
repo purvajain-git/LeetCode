@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/purvajain-git/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/purvajain-git/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/purvajain-git/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/purvajain-git/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/purvajain-git/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/purvajain-git/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/purvajain-git/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/purvajain-git/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Greedy
 |  |
 | ------- |
