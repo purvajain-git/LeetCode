@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/purvajain-git/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/purvajain-git/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/purvajain-git/LeetCode/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/purvajain-git/LeetCode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/purvajain-git/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/purvajain-git/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/purvajain-git/LeetCode/tree/master/0075-sort-colors) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/purvajain-git/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/purvajain-git/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/purvajain-git/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/purvajain-git/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/purvajain-git/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/purvajain-git/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/purvajain-git/LeetCode/tree/master/0037-sudoku-solver) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -163,5 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/purvajain-git/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/purvajain-git/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/purvajain-git/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/purvajain-git/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
