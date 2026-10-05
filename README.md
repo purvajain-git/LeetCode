@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/purvajain-git/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/purvajain-git/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/purvajain-git/LeetCode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/purvajain-git/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/purvajain-git/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/purvajain-git/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/purvajain-git/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/purvajain-git/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0496-next-greater-element-i](https://github.com/purvajain-git/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/purvajain-git/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/purvajain-git/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/purvajain-git/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/purvajain-git/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/purvajain-git/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/purvajain-git/LeetCode/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/purvajain-git/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
