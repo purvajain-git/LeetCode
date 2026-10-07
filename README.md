@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/purvajain-git/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/purvajain-git/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0496-next-greater-element-i](https://github.com/purvajain-git/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/purvajain-git/LeetCode/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -188,4 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/purvajain-git/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/purvajain-git/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/purvajain-git/LeetCode/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/purvajain-git/LeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/purvajain-git/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
