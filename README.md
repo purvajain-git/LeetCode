@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/purvajain-git/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/purvajain-git/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/purvajain-git/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/purvajain-git/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
 | ------- |
