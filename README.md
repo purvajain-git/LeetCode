@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/purvajain-git/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/purvajain-git/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/purvajain-git/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0143-reorder-list](https://github.com/purvajain-git/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/purvajain-git/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/purvajain-git/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/purvajain-git/LeetCode/tree/master/0283-move-zeroes) |
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/purvajain-git/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/purvajain-git/LeetCode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/purvajain-git/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/purvajain-git/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/purvajain-git/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/purvajain-git/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/purvajain-git/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/purvajain-git/LeetCode/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/purvajain-git/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/purvajain-git/LeetCode/tree/master/0901-online-stock-span) |
 ## Tree
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/purvajain-git/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0143-reorder-list](https://github.com/purvajain-git/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/purvajain-git/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
