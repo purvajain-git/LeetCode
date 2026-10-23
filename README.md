@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/purvajain-git/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/purvajain-git/LeetCode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/purvajain-git/LeetCode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/purvajain-git/LeetCode/tree/master/0038-count-and-say) |
 | [0424-longest-repeating-character-replacement](https://github.com/purvajain-git/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
