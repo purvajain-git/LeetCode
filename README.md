@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/purvajain-git/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/purvajain-git/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/purvajain-git/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/purvajain-git/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/purvajain-git/LeetCode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/purvajain-git/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/purvajain-git/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/purvajain-git/LeetCode/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/purvajain-git/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/purvajain-git/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0219-contains-duplicate-ii](https://github.com/purvajain-git/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/purvajain-git/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/purvajain-git/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/purvajain-git/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/purvajain-git/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/purvajain-git/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/purvajain-git/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/purvajain-git/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/purvajain-git/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/purvajain-git/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
