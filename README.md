@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/purvajain-git/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/purvajain-git/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/purvajain-git/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/purvajain-git/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/purvajain-git/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/purvajain-git/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/purvajain-git/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/purvajain-git/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/purvajain-git/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/purvajain-git/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/purvajain-git/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/purvajain-git/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/purvajain-git/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/purvajain-git/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/purvajain-git/LeetCode/tree/master/0053-maximum-subarray) |
+| [0095-unique-binary-search-trees-ii](https://github.com/purvajain-git/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0152-maximum-product-subarray](https://github.com/purvajain-git/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Recursion
 |  |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/purvajain-git/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/purvajain-git/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/purvajain-git/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/purvajain-git/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
