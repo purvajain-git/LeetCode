@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/purvajain-git/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/purvajain-git/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/purvajain-git/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/purvajain-git/LeetCode/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/purvajain-git/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bracket Sequences
 |  |
